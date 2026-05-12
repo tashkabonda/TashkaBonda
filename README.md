@@ -1,6 +1,8 @@
-# Hi, I'm Tatiana! 👋
+# Hi, I'm Tatyana! 👋
 
-**Junior Data Analyst** 
+![Data Visualization](https://media.giphy.com/media/26BRv0Th5nZr6yG2k/giphy.gif)
+
+**Junior Data Analyst** | Ohio, USA
 
 ---
 
@@ -22,7 +24,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11577A?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8ABE?style=flat&logo=seaborn&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
@@ -30,36 +32,45 @@
 
 **Other**
 **A/B Testing**
+
 ---
 
-### 🚀 Projects
+### 🎓 Education & Certificates
+
+- **Data Analyst Professional Certificate** — [Название платформы]
+- **SQL for Data Analysis** — [Платформа]
+- **Python for Data Science** — [Платформа]
+
+---
+
+### 🚀 Featured Projects
 
 - **[Cohort Retention Analysis](https://github.com/tashkabonda/cohort-retention-analysis)**  
   Cohort retention analysis: organic vs promo users (SQL + Google Sheets)
 
 - **[A/B Test: Subscription Conversion](https://github.com/tashkabonda/conversion-rate-analysis-ab-test)**  
-  Full-cycle A/B test for a Yoga mobile app subscription screen. Increased Install-to-Paid conversion by **+46%** (from 6.1% to 8.9%) using psychological pricing framing. Python, Z-test, Chi-squared (p=0.0).
+  Full-cycle A/B test for Yoga mobile app. Increased Install-to-Paid conversion by **+46%** (6.1% → 8.9%) using psychological framing. Python, Z-test, Chi-squared.
 
 ---
 
 ### 🌱 Currently Learning
 
-- Advanced SQL and query optimization
-- Statistical analysis and hypothesis testing
-- Report automation and dashboard development
+- Advanced SQL & Query Optimization
+- Statistical Analysis & Hypothesis Testing  
+- Report Automation & Dashboard Design
 
 ---
 
 ### ☕ About Me
 
-Coffee enthusiast and a big fan of clean, elegant dashboards. I love turning complex data into clear and beautiful stories.
+Coffee lover obsessed with clean and elegant dashboards. I enjoy turning complex data into clear, beautiful stories.
 
 ---
 
 ### 📫 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/bondarenkotetiana/
+- LinkedIn: [link]  
 
 ---
 
-Open to new opportunities and interesting projects ✨
+**Open to new opportunities and exciting projects** ✨
