@@ -1,76 +1,77 @@
-# Hi, I'm Tatyana! 👋
+# Hi, I'm Tatyana 👋  
+Junior Data Analyst 
 
-![Data Visualization](https://media.giphy.com/media/26BRv0Th5nZr6yG2k/giphy.gif)
-
-**Junior Data Analyst** | Ohio, USA
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Data Analysis**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Visualization & BI**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11577A?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8ABE?style=flat&logo=seaborn&logoColor=white)
-
-**Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-**Other**
-**A/B Testing**
+I work with data to identify patterns, build insights, and support data-driven decision making.
 
 ---
 
-### 🎓 Education & Certificates
+## 🛠️ Tech Stack
 
-- **Data Analyst Professional Certificate** — [Название платформы]
-- **SQL for Data Analysis** — [Платформа]
-- **Python for Data Science** — [Платформа]
+**Languages & Databases**  
+Python • SQL • BigQuery • PostgreSQL  
 
----
+**Data Analysis**  
+Pandas • NumPy  
 
-### 🚀 Featured Projects
+**Data Visualization & BI**  
+Power BI • Tableau • Matplotlib • Seaborn  
 
-- **[Cohort Retention Analysis](https://github.com/tashkabonda/cohort-retention-analysis)**  
-  Cohort retention analysis: organic vs promo users (SQL + Google Sheets)
+**Tools**  
+Jupyter Notebook • Google Colab • Google Sheets • Excel  
 
-- **[A/B Test: Subscription Conversion](https://github.com/tashkabonda/conversion-rate-analysis-ab-test)**  
-  Full-cycle A/B test for Yoga mobile app. Increased Install-to-Paid conversion by **+46%** (6.1% → 8.9%) using psychological framing. Python, Z-test, Chi-squared.
-
----
-
-### 🌱 Currently Learning
-
-- Advanced SQL & Query Optimization
-- Statistical Analysis & Hypothesis Testing  
-- Report Automation & Dashboard Design
+**Workflow & Methods**  
+A/B testing • Statistical hypothesis testing • Cohort analysis  
 
 ---
 
-### ☕ About Me
+## 🚀 Projects
 
-Coffee lover obsessed with clean and elegant dashboards. I enjoy turning complex data into clear, beautiful stories.
-
----
-
-### 📫 Get in Touch
-
-- LinkedIn: [link]  
+### Cohort Retention Analysis
+User retention analysis (organic vs promo cohorts)  
+→ cohort segmentation  
+→ retention trend analysis  
+→ tools: SQL, Google Sheets  
 
 ---
 
-**Open to new opportunities and exciting projects** ✨
+### A/B Test: Subscription Conversion
+Mobile app experiment  
+→ conversion improvement: 6.1% → 8.9% (+46%)  
+→ hypothesis testing using statistical methods  
+→ tools: Python, SQL  
+
+---
+
+### Funnel Analysis (in progress)
+User journey analysis from install to conversion  
+→ identification of drop-off points  
+→ product metric optimization  
+
+---
+
+## 🌱 Continuously Improving
+
+- SQL — advanced queries and optimization techniques  
+- Python — data analysis with Pandas and NumPy  
+- Tableau / Power BI — dashboard design and data visualization  
+- Statistics — A/B testing and hypothesis validation  
+
+---
+
+## 📊 Working Approach
+- Start from the business question  
+- Define hypotheses before analysis  
+- Validate insights with data  
+- Translate results into actionable conclusions  
+
+---
+
+## 🧠 About Me
+I’m interested in understanding user behavior through data and translating complex datasets into clear and useful insights for product decisions.  
+I focus on structure, logic, and practical impact.
+
+---
+
+## 📫 Contact
+
+LinkedIn: [bondarenkotetiana](https://www.linkedin.com/in/bondarenkotetiana/)
