@@ -1,4 +1,4 @@
-# Hi, I'm Tatyana 👋  
+# Hi, I'm Tatiana 👋  
 Junior Data Analyst 
 
 I work with data to identify patterns, build insights, and support data-driven decision making.
@@ -7,45 +7,38 @@ I work with data to identify patterns, build insights, and support data-driven d
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases**  
+- **Languages & Databases**  
 Python • SQL • BigQuery • PostgreSQL  
 
-**Data Analysis**  
+- **Data Analysis**  
 Pandas • NumPy  
 
-**Data Visualization & BI**  
+- **Data Visualization & BI**  
 Power BI • Tableau • Matplotlib • Seaborn  
 
-**Tools**  
+- **Tools**  
 Jupyter Notebook • Google Colab • Google Sheets • Excel  
 
-**Workflow & Methods**  
+- **Workflow & Methods**  
 A/B testing • Statistical hypothesis testing • Cohort analysis  
 
 ---
 
 ## 🚀 Projects
 
-### Cohort Retention Analysis
-User retention analysis (organic vs promo cohorts)  
+- **[Cohort Retention Analysis](https://github.com/tashkabonda/cohort-retention-analysis)**  
+  Cohort retention analysis: organic vs promo users (SQL + Google Sheets)
 → cohort segmentation  
 → retention trend analysis  
 → tools: SQL, Google Sheets  
 
 ---
 
-### A/B Test: Subscription Conversion
-Mobile app experiment  
+- **[A/B Test: Subscription Conversion](https://github.com/tashkabonda/conversion-rate-analysis-ab-test)**  
+  Full-cycle A/B test for mobile app.  
 → conversion improvement: 6.1% → 8.9% (+46%)  
 → hypothesis testing using statistical methods  
 → tools: Python, SQL  
-
----
-
-### Funnel Analysis (in progress)
-User journey analysis from install to conversion  
-→ identification of drop-off points  
-→ product metric optimization  
 
 ---
 
