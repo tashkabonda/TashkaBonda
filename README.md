@@ -36,9 +36,10 @@ A/B testing • Statistical hypothesis testing • Cohort analysis
 
 - **[A/B Test: Subscription Conversion](https://github.com/tashkabonda/conversion-rate-analysis-ab-test)**  
   Full-cycle A/B test for mobile app.  
-→ conversion improvement: 6.1% → 8.9% (+46%)  
-→ hypothesis testing using statistical methods  
-→ tools: Python, SQL  
+→ Conversion improvement: 6.1% → 8.9% (+46%)  
+→ Hypothesis testing (Z-test, Chi-square)  
+→ Experiment design: sample size & duration estimation (online calculators)  
+→ Tools: Python 
 
 ---
 
